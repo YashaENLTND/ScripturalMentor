@@ -1,4 +1,5 @@
 Scriptural Mentor
+
 Overview
 Scriptural Mentor is a specialized AI model designed to provide guidance and insights based on the teachings of the New Testament. It combines deep learning with a comprehensive understanding of biblical texts to offer users spiritual and ethical guidance, reflective of the teachings of Christ. The model is tailored for those seeking to integrate Christian principles into their daily lives or deepen their understanding of the New Testament.
 
